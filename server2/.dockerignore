@@ -1,0 +1,6 @@
+db
+*.md
+.git
+.gitignore
+.venv
+*.tar
